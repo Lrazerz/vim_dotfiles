@@ -20,7 +20,6 @@ set softtabstop=4
 set smarttab
 set expandtab
 set smartindent
-set number
 
 
 ino " ""<left>
